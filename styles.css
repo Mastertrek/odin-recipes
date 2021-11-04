@@ -1,9 +1,32 @@
 h1 {
-    color:seagreen;
+    color: purple,
+    
 }
 
 img  {
     height: auto;
     width: 300px;
 }
+#tacodes {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
+}
+.olist,
+.ulist  {
+    background-color: goldenrod;
+    text-align: center;
+    color: purple;
+} 
+ .ulist  {
+     font-size: 25px;
+ }
+li  {
+    color: goldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+p   {
+    color: purple;
+    font-weight: 700;
+}
