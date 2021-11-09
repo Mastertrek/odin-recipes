@@ -1,12 +1,14 @@
 h1 {
     color: #800080;
     font-weight: 100;
-
+    padding: 20px;
+    border: 2px red;
 }
 
 img  {
     height: auto;
     width: 300px;
+    
 }
 #tacodes {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
